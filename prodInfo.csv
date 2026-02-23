@@ -1,0 +1,16 @@
+order_id,customer,city,product,quantity,unit_price,status
+101,Akshay Kumar,Hyderabad,Laptop,1,62000,Delivered
+102,Neha Sharma,Bengaluru,Mouse,3,450,Pending
+103,Rahul Verma,Hyderabad,Keyboard,1,1200,
+104,Pooja Nair,Chennai,Monitor,2,14500,Delivered
+105,Sameer Khan,Mumbai,USB Cable,15,120,Cancelled
+106,Divya Reddy,Hyderabad,Webcam,1,2800,
+107,Arun Patel,Bengaluru,Headphones,1,3200,
+108,Kavya Menon,Chennai,Laptop Sleeve,4,800,Cancelled
+109,Mohan Gupta,Hyderabad,External HDD,1,4800,Delivered
+110,Sonia Bose,Mumbai,Mouse Pad,10,250,Pending
+111,Vikram Joshi,Hyderabad,SSD 1TB,2,6500,Delivered
+112,Anjali Desai,Pune,Portable Charger,8,900,Cancelled
+113,Rajat Malhotra,Hyderabad,Wireless Mouse,5,1800,
+114,Shreya Iyer,Bengaluru,HDMI Cable,20,350,Pending
+115,Kiran Reddy,Hyderabad,Desk Lamp,1,2200,Delivered
